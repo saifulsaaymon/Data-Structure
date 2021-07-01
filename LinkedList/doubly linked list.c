@@ -1,4 +1,4 @@
-// Doubly linked list
+//.... Doubly linked list....
 
 #include<stdio.h>
 #include<stdlib.h>
